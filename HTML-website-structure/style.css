@@ -69,18 +69,22 @@ main, header, nav, article, aside, footer, section {
 h1 {
   flex: 5;
   text-transform: uppercase;
+  
 }
 
 header img {
   display: block;
   height: 60px;
   padding-top: 20.15px;
+  
+  
 }
 
 nav {
   height: 50px;
   flex: 100%;
   display: flex;
+  
 }
 
 nav ul {

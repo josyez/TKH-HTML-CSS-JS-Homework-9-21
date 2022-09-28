@@ -1,0 +1,18 @@
+p.a {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+p.a {
+    font-size: 24px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
